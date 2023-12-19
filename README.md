@@ -1,5 +1,6 @@
 ### AkhsyanalGowpur_201011400526_07TPLE007
 
+chrome v120.0.xxxxxx <br>
 chromedriver v120.0.xxxxxx <br>
 add path ..
 

@@ -1,8 +1,16 @@
 ### AkhsyanalGowpur_201011400526_07TPLE007
 
+Use : <br>
 chrome v120.0.xxxxxx <br>
 chromedriver v120.0.xxxxxx <br>
-add path ..
+
+robot project-demo/test-suite-2.robot
+
+### Screenshoot
+![Basic-Automation-Log](https://github.com/Gowpur-GitHub/Basic-Automation/assets/133848555/19f3334c-6794-4382-8e17-f041edf7cfd8)
+
+![Basic-Automation-Report](https://github.com/Gowpur-GitHub/Basic-Automation/assets/133848555/b9946aa6-ba8a-4a80-a9ab-6c5162325e61)
+
 
 # basic-automation
 
